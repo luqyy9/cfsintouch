@@ -43,6 +43,9 @@ nav a:hover {
   cursor: pointer;
   border-radius: 5px;
 }
+.hero button:hover {
+  background: #051011;
+}
 
 .section {
   padding: 40px 20px;
