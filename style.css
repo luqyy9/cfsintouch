@@ -15,7 +15,8 @@ nav a {
 }
 
 nav a:hover {
-  color: #00adb5;
+  color: #051011;
+  background-color:white;
 }
 
 .hero {
@@ -37,7 +38,7 @@ nav a:hover {
   margin-top: 20px;
   padding: 10px 20px;
   border: none;
-  background: #00adb5;
+  background: #162324;
   color: white;
   cursor: pointer;
   border-radius: 5px;
